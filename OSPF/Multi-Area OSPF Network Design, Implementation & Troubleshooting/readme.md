@@ -34,7 +34,7 @@ The project focuses on implementing dynamic routing across multiple OSPF areas, 
 
 ## 4. Network Topology
 
-![[Pasted image 20260804114354.png]]
+![Network Topology](topology.png)
 
 ## Network Topology
 
