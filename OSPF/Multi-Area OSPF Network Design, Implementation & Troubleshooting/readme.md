@@ -224,7 +224,7 @@ While this project successfully demonstrates a hierarchical Multi-Area OSPF impl
 
 ---
 
-## 14. Decision Process ⭐
+## 14. Decision Process
 
 ### Problem
 
