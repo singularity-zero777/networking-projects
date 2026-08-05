@@ -1,7 +1,7 @@
 # Layer 2 Isolation to ROAS Connectivity - Network Implementation & Troubleshooting Report
 
 **Topology Scope:** 4 Switches (SW1–SW4), 6 End Hosts (PC1–PC6), and 1 Router (R1)
-![[roas_topology.png]]
+![Network Topology](roas_topology.png)
 ## 1. Initial Setup & Network Intent
 
 The goal was to build a segmented network with 4 switches carrying traffic across three distinct subnets/departments:
